@@ -15,4 +15,5 @@ python /usr/lib/python2.6/site-packages/carbon_migration_scripts/file_client/imp
 python /usr/lib/python2.6/site-packages/carbon_migration_scripts/file_client/import_csv.pyc csv_output/tariff_usluga.csv.cfg csv_output/tariff_usluga.csv migrate_tariff_usluga
 python /usr/lib/python2.6/site-packages/carbon_migration_scripts/file_client/import_csv.pyc csv_output/abonent.csv.cfg csv_output/abonent.csv migrate_abonents
 python /usr/lib/python2.6/site-packages/python_tools/client_fix_scripts/unblock_after_migration.pyc
+bbbb
 /etc/init.d/memcached start
