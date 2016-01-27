@@ -1,7 +1,4 @@
 #!/bin/bash
-sqlexec "delete from cards"
-sqlexec "delete from card_series"
-chroot /app/asr_billing/
 /etc/init.d/memcached stop
 cd /root/
 mkdir new_migration
